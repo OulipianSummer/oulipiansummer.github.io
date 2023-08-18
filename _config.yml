@@ -13,37 +13,38 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: EDT
+timezone:
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "Andrew Benbow" # the main title
+title: Chirpy # the main title
 
-tagline: Custom Web Developer in Asheville, NC # it will display as the sub-title
+tagline: A text-focused Jekyll theme # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Andrew Benbow custom Web Developer in Asheville, NC
-
+  A minimal, responsive and feature-rich Jekyll theme for technical writing.
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://oulipiansummer.github.io"
+url: ""
 
 github:
-  username: OulipianSummer # change to your github username
+  username: github_username # change to your github username
+
+twitter:
+  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Andrew Benbow
-  email: benbow.drew@gmail.com # change to your email address
+  name: your_full_name
+  email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/OulipianSummer # change to your github homepage
+    - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://fosstodon.org/@abmurrow
-    - https://www.linkedin.com/in/andrew-m-benbow/
+    # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
 
@@ -74,7 +75,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/47955980
+avatar:
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -90,10 +91,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: OulipianSummer/oulipiansummer.github.io
-    repo_id: oulipiansummer.github.io
-    category: General
-    category_id: DIC_kwDOKIaAlM4CYspp
+    repo: # <gh-username>/<repo>
+    repo_id:
+    category:
+    category_id:
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
