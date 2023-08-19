@@ -12,7 +12,7 @@ tags: [frontend, drupal, php, webserver management]
 
 <p><i class="fas fa-link"></i> Link: <a href="https://www.blankmediaprinting.com/">https://www.blankmediaprinting.com/</a></p>
 
-Blank Media Printing approached us to help make the public-facing-pages on their website load faster. As you might expect, this is a very common request. 
+Blank Media Printing approached us to help make the public-facing-pages on their website load faster. As you might expect, this is a very common request.
 
 In our day-to-day work, this typically meant that we would need to tune the server: we would probably just optimize some page queries, update a template or two, compress some images, pare down the number of serial requests on each page, and then do some testing.
 
@@ -21,11 +21,11 @@ However, once we started our work, we found that the vast majority of their page
 In this post, I'll detail how I brought a website up to the more modern standards of modular content management.
 Talking Points
 
- - Breaking pages into bite-sized chunks makes it easier optimize each section
- - Using WYSIWYG editors is great for most use cases, but using it to store and manage complex markup and media is not one of them
- - Using an in-house solution is often the best choice for platforms that are no longer receiving updates or support
+- Breaking pages into bite-sized chunks makes it easier optimize each section
+- Using WYSIWYG editors is great for most use cases, but using it to store and manage complex markup and media is not one of them
+- Using an in-house solution is often the best choice for platforms that are no longer receiving updates or support
 
---- 
+---
 
 ## WYSIWYG: A Background
 
@@ -66,7 +66,7 @@ The huge advantage that the node system offered was the fact that we could progr
 
 Using the example image above, this new system effectively enabled us to define a new node bundle called a "photo region." This "photo region" could then be configured to collect data for a header, a section of body text, and a photo.
 
-If we wanted even more control over this region, we could define a field that places the photo on the left or right hand side. Importantly, we could also tell the system to resize the photo to a specific web-optimized size. Whenever an admin wanted to make a new "photo region" to display some content on a page they were building, they could just create a new instance of this region and plug their content into specialized, purpose-driven fields. All they would need to do is create a title in a text field, pick an image using a file uploader widget, and write some body text in a markup field. 
+If we wanted even more control over this region, we could define a field that places the photo on the left or right hand side. Importantly, we could also tell the system to resize the photo to a specific web-optimized size. Whenever an admin wanted to make a new "photo region" to display some content on a page they were building, they could just create a new instance of this region and plug their content into specialized, purpose-driven fields. All they would need to do is create a title in a text field, pick an image using a file uploader widget, and write some body text in a markup field.
 
 Although this system solved a lot of content management issues for admins, it didn't quite solve the issue of how to display these new layout regions once they were created. Like I said, to Drupal, a node is an object that can be rendered as its own page— not a section of another page.
 

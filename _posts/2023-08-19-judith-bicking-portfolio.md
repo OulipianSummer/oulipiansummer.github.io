@@ -18,9 +18,9 @@ At the end of the day, Judith was looking for a simple, cost effective portfolio
 
 Talking Points
 
- - Python-powered portfolio that uses masonry layout and Bootstrap 5
- - Built using CodeRedCMS and Wagtail for minimal bloat and low computational overhead
- - Entire website is optimized for SEO, performance, and lead generation
+- Python-powered portfolio that uses masonry layout and Bootstrap 5
+- Built using CodeRedCMS and Wagtail for minimal bloat and low computational overhead
+- Entire website is optimized for SEO, performance, and lead generation
 
 ---
 
@@ -30,19 +30,19 @@ When Judith started describing what she wanted out of her website, I realized he
 
 On the other hand, I thought that Wagtail CMS might be a good fit for her project. Wagtail is a very simple content management system written in Python and built on top of the ever-popular Django web framework. It was fast, easy to maintain, had plenty of support, and gave us a lot of flexibility in terms of future expansions. If, for example, Judith ever wanted to expand her portfolio to act as an e-commerce site for her art, there were plenty of community packages we could install to make that happen.
 
-I've always felt that Django alone was just a little too bare-bones for building and maintaining websites on a short timeline, so I wanted to use Wagtail because it provided some more pre-packaged features that make it easy to get great websites into clients' hands. 
+I've always felt that Django alone was just a little too bare-bones for building and maintaining websites on a short timeline, so I wanted to use Wagtail because it provided some more pre-packaged features that make it easy to get great websites into clients' hands.
 
 In the end, I chose to build the project using a Wagtail distribution called CodeRedCMS. This was because CodeRedCMS was designed to build high-quality marketing websites extremely quickly without having to spend a ton of time building and debugging complicated Django models.
 
 ## Shared Hosting
 
-We decided to launch this site on shared hosting in order to reduce some of Judith's monthly overhead. This ended up being a really great solution for us, despite the fact we were using a non PHP-powered stack. This is in thanks to the fact that shared hosting has come a long way from even just 5 years ago. 
+We decided to launch this site on shared hosting in order to reduce some of Judith's monthly overhead. This ended up being a really great solution for us, despite the fact we were using a non PHP-powered stack. This is in thanks to the fact that shared hosting has come a long way from even just 5 years ago.
 
-Hosting providers used to limit developers to a bare-bones set of scripts and packages that they could use on their hosted server. In most cases, you were stuck with the software you were given--almost all of it designed to run WordPress and practically nothing else. Add to that the meager hardware resources at your disposal, and it made for an uncomfortable production environment. 
+Hosting providers used to limit developers to a bare-bones set of scripts and packages that they could use on their hosted server. In most cases, you were stuck with the software you were given--almost all of it designed to run WordPress and practically nothing else. Add to that the meager hardware resources at your disposal, and it made for an uncomfortable production environment.
 
 Many hosting services have started to offer more production-ready shared hosting environments for simple websites that still need some special features, but this isn't the case everywhere. It certainly wasn't the case with Judith's existing hosting provider, which was charging her a huge monthly fee for little more than an FTP server.
 
-Today, there are plenty of shared hosts that will let you compile your own binaries, upgrade and customize the software on your shared machine, and even run websites that aren't powered by PHP and WordPress. 
+Today, there are plenty of shared hosts that will let you compile your own binaries, upgrade and customize the software on your shared machine, and even run websites that aren't powered by PHP and WordPress.
 
 In Judith's case, using a full-featured shared host meant she had the ability to cut her existing web hosting budget in half and still get a highly performant website out of it. The fact that we had the ability to compile our own binaries also meant that I could make sure her site had access to the latest version of Python. If she ever needed to upgrade in the future, her chosen hosting provider could hook her up with a VPS to handle the extra traffic.
 

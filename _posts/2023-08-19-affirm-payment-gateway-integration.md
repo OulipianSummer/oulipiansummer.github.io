@@ -22,17 +22,17 @@ In this case study, I cover the steps I took to breathe life back into an outdat
 
 Talking Points
 
- - Old software never really dies as long as you take the time to learn how it works
- - The Affirm SDK is one of the most comprehensive frontend solutions in a payment gateway
- - Take time to review vendor code, it might just save you some time in your own projects!
+- Old software never really dies as long as you take the time to learn how it works
+- The Affirm SDK is one of the most comprehensive frontend solutions in a payment gateway
+- Take time to review vendor code, it might just save you some time in your own projects!
 
- ---
+---
 
- ## The Affirm API
+## The Affirm API
 
- Having worked with a few different payment gateway vendors at this point, I can proudly say that Affirm is one of my favorites. Their entire integration process revolves around a single JavaScript SDK. Just add it to your site, change a little bit of markup, write a few JavaScript event handlers to bind the two together, and you can start taking orders-- on the frontend, at least. 
+ Having worked with a few different payment gateway vendors at this point, I can proudly say that Affirm is one of my favorites. Their entire integration process revolves around a single JavaScript SDK. Just add it to your site, change a little bit of markup, write a few JavaScript event handlers to bind the two together, and you can start taking orders-- on the frontend, at least.
 
-Affirm's SDK takes care of the hard work presenting pre-designed UI elements to the user, helping them log into their Affirm account without ever leaving your site, and it even handles the payment gateway webhooks for you, so long as you formatted your order data correctly. 
+Affirm's SDK takes care of the hard work presenting pre-designed UI elements to the user, helping them log into their Affirm account without ever leaving your site, and it even handles the payment gateway webhooks for you, so long as you formatted your order data correctly.
 
 This SDK also takes care of some of the scarier legal baggage that comes with loans and deferred payment systems. It does this by making sure users always have access to detailed information about their borrowing power directly from your site. It even renders a handy UI element that describes how much a product would cost in terms of monthly payments.
 
@@ -52,7 +52,7 @@ Building and debugging webhooks of this nature can be a tricky and time consumin
 
 ### Long Term Maintenance
 
-Assuming that we could even build a working package, we would still have to stay alert for upstream changes to Affirm's API. Most 3rd party software vendors are good about supporting their old APIs in perpetuity, but it isn't always a guarantee. 
+Assuming that we could even build a working package, we would still have to stay alert for upstream changes to Affirm's API. Most 3rd party software vendors are good about supporting their old APIs in perpetuity, but it isn't always a guarantee.
 
 If anything, this consideration made it all the more important to have a wide degree of control and understanding over whatever form our plugin took. If we had the luxury of using an official plugin that worked out of the box, we wouldn't really know what to do if Affirm introduced a breaking change to their service.
 
@@ -66,7 +66,7 @@ Regardless of how we decided to implement an Affirm plugin, these features were 
 
 All of the challenges that stood before us posed an interesting question: if we weren't going to get any of the perks of officially supported software anyway, why not just fork off the dead community version and make our own in-house plugin that suited our needs? Even if it was out of date, maybe we could repair the package to the point where it worked.
 
-There was only one potential trade off: all of this proposed repair work came at the cost of time and energy. In short, I had to be sure that this solution would work, or risk throwing away too much time on a pipe dream. 
+There was only one potential trade off: all of this proposed repair work came at the cost of time and energy. In short, I had to be sure that this solution would work, or risk throwing away too much time on a pipe dream.
 
 To make sure our fears weren't unfounded, I took some time to read up on how Bison Disc's existing payment gateways worked. Then I took what I learned and compared it to the outdated Affirm plugin. All in all, I discovered the Affirm plugin was a good candidate for refactoring. It handled most of the work that we needed, and the parts that it didn't do were easy enough to implement that we could get it built well within the proposed budget.
 

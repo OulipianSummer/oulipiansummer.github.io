@@ -16,13 +16,13 @@ However, once that work is done and the site is running smoothly, it can be hard
 
 Talking Points
 
- - Using structured data is a low-cost way of enhancing search rankings without placing ads
- - Search engines have started to adopt more modern ways of injecting this data
- - This method is scalable and flexible, depending on the type of data you want to display
+- Using structured data is a low-cost way of enhancing search rankings without placing ads
+- Search engines have started to adopt more modern ways of injecting this data
+- This method is scalable and flexible, depending on the type of data you want to display
 
  ---
 
- ## What Are Rich Results & Structured Data?
+## What Are Rich Results & Structured Data?
 
  Rich results and structured data are both important components of SEO (Search Engine Optimization), as they help search engines understand the content of a webpage and provide more informative and visually appealing search results to users.
 
@@ -32,7 +32,7 @@ Rich results are the enhanced search results that feature additional visual elem
 
 ## E-Commerce
 
-One of our clients requested this work to attract more customers to their e-commerce site, specifically to their product pages. The goal was to make it easy for shoppers to quickly see the price, availability, the number of reviews, and the average review rating of a particular product. 
+One of our clients requested this work to attract more customers to their e-commerce site, specifically to their product pages. The goal was to make it easy for shoppers to quickly see the price, availability, the number of reviews, and the average review rating of a particular product.
 
 Compared to their competitors, utilizing the additional visual features that search engines offer to pages using structured data would help them stand out.
 
@@ -41,7 +41,7 @@ Compared to their competitors, utilizing the additional visual features that sea
 
 ## Job Listings
 
-Another client wanted to take advantage of a different feature of Google called "Jobs." This client was a professional staffing agency, and their business relied on linking potential employees with professional job listings posted on their website. Hence, they needed a way to help their listings appear in the same format as listings from websites such as Indeed and LinkedIn. 
+Another client wanted to take advantage of a different feature of Google called "Jobs." This client was a professional staffing agency, and their business relied on linking potential employees with professional job listings posted on their website. Hence, they needed a way to help their listings appear in the same format as listings from websites such as Indeed and LinkedIn.
 
 The general idea was for a potential candidate to be able to search something like "jobs near Miami" and see a stylized list of current job listings compiled by Google using the structured data from that listing.
 
@@ -50,13 +50,13 @@ The general idea was for a potential candidate to be able to search something li
 
 ## Formatting Issues
 
-Automatically generating structured data and inserting it into a web page in such a way that both search engines and people can understand is not without its challenges. Typically, structured data is integrated into each web page using a format known as microdata. 
+Automatically generating structured data and inserting it into a web page in such a way that both search engines and people can understand is not without its challenges. Typically, structured data is integrated into each web page using a format known as microdata.
 
 This format gained popularity through Google and Google+, but it has since become less favored as it requires developers to embed metadata and Schema.org definitions directly into the HTML elements that wrap their content. This can have several negative consequences such as poor site performance, bloated DOM size, unpredictable page design, and poor scalability. Therefore, using microdata or any similar method was something I wanted to avoid to keep maintenance costs low.
 
 ## The Requirements
 
-The e-commerce website needed a way for admins to manually manage product listing data using a graphical user interface in the backend. This would allow them to update search result listings whenever the upstream price of their products and materials changed, which happened frequently. 
+The e-commerce website needed a way for admins to manually manage product listing data using a graphical user interface in the backend. This would allow them to update search result listings whenever the upstream price of their products and materials changed, which happened frequently.
 
 Likewise, the job listing company aimed to make their listings available as soon as the employer finalized their listing details and were ready to accept applications. As this company manages hundreds of listings simultaneously, the day-to-day operation of this feature had to work with minimal supervision or input from admins after publishing the listing.
 

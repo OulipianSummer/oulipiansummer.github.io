@@ -8,7 +8,7 @@ tags: [welcome]
 
 <base target="_blank">
 
-## Hello World!
+## Hello World
 
 My name is Andrew Benbow. I am a full-stack web developer based in Asheville, North Carolina, and this is my new blog. Here, I will post life updates, software tutorials, thoughts about books I've been reading, and maybe the occasional baking recipe.
 
