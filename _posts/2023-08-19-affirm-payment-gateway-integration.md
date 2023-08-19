@@ -3,7 +3,7 @@ layout: post
 title: Affirm Payment Gateway Integration
 date: '2023-08-19 20:37:18 +0000'
 categories: [Portfolio]
-tags: [backend, Drupal, payment gateway, API integration, Affirm]
+tags: [backend, drupal, payment gateway, api integration, affirm]
 ---
 
 <base target="_blank">

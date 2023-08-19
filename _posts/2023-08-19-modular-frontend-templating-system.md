@@ -3,7 +3,7 @@ layout: post
 title: Modular Frontend Templating System
 date: '2023-08-19 20:27:41 +0000'
 categories: [Portfolio]
-tags: [frontend, Drupal, PHP, webserver management]
+tags: [frontend, drupal, php, webserver management]
 ---
 
 <base target="_blank">

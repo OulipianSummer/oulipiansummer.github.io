@@ -3,7 +3,7 @@ layout: post
 title: Rich Results & Structured Data
 date: '2023-08-19 20:42:05 +0000'
 categories: [Portfolio]
-tags: [SEO, structured data, Drupal, backend]
+tags: [seo, structured data, dupal, backend]
 ---
 
 ## Bison Disc & Dental Power
