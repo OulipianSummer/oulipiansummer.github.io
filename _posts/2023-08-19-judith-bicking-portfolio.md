@@ -52,8 +52,8 @@ From the start, Judith wanted her gallery to display each image in its native, u
 
 Another one of Judith's core requirements was that her gallery pages should be able to host an entire collection of full-resolution images, sometimes as many as 20 or 30 at a time. The challenge here was making it so these pages loaded quickly and worked well on mobile systems.
 
-![Image gallery featuring children's illustrationsA screenshot of one of the custom galleries on Judith's website built using masonry.](https://raw.githubusercontent.com/OulipianSummer/oulipiansummer.github.io/main/assets/img/portoflio/jbicking-gallery.webp)
-*Image gallery featuring children's illustrationsA screenshot of one of the custom galleries on Judith's website built using masonry.*
+![A screenshot of one of the custom galleries on Judith's website built using masonry.](https://raw.githubusercontent.com/OulipianSummer/oulipiansummer.github.io/main/assets/img/portoflio/jbicking-gallery.webp)
+*A screenshot of one of the custom galleries on Judith's website built using masonry.*
 
 Thankfully, Wagtail comes with a nice image rendition system, meaning Judith could upload a full resolution JPEG in the backend and Wagtail would create a web-optimized and super-small webp thumbnail for display in the gallery. Whenever a visitor clicks on an image, they can see a full-resolution version of that image in a pop-up modal.
 
