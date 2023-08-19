@@ -10,7 +10,7 @@ tags: [frontend, drupal, php, webserver management]
 
 ## Blank Media Printing
 
-<p>Link: <i class="fas fa-link"></i> <a href="https://www.blankmediaprinting.com/">https://www.blankmediaprinting.com/</a></p>
+<p><i class="fas fa-link"></i> Link: <a href="https://www.blankmediaprinting.com/">https://www.blankmediaprinting.com/</a></p>
 
 Blank Media Printing approached us to help make the public-facing-pages on their website load faster. As you might expect, this is a very common request. 
 

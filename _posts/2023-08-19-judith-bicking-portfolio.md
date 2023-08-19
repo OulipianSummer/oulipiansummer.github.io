@@ -10,7 +10,7 @@ tags: [python, django, wagtail, webapp, frontend, backend]
 
 ## Judith Bicking: Bicking Graphics
 
-<p>Link: <i class="fas fa-link"></i> <a href="https://bicking.com">https://bicking.com</a></p>
+<p><i class="fas fa-link"></i> Link: <a href="https://bicking.com">https://bicking.com</a></p>
 
 Judith Bicking, a local illustrator in Asheville, North Carolina, reached out to me looking for a portfolio website that helped her organize and display her artwork. In her work as an illustrator, she has used dozens of third-party portfolio hosting services, but none of them quite lived up to her expectations. They were difficult to maintain, often charged a fee to host her art, didn't always have a full-featured or intuitive image gallery, and they didn't always help generate client leads. She also paid for a hosted domain that she wasn't using, and the semi-monthly charges were beginning to add up.
 
