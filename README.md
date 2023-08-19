@@ -51,3 +51,7 @@ Command to create new posts: `bundle exec jekyll post "Joust" --timestamp-format
 Run locally `bundle exec jekyll s`
 
 Root location of images `https://raw.githubusercontent.com/OulipianSummer/oulipiansummer.github.io/main/assets/img/portoflio/`
+
+Debugging
+ 
+  - Make sure tags are lower case
