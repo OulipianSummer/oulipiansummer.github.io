@@ -49,3 +49,5 @@ This work is published under [MIT][mit] License.
 Command to create new posts: `bundle exec jekyll post "Joust" --timestamp-format "%Y-%m-%d %H:%M:%S %z"`
 
 Run locally `bundle exec jekyll s`
+
+Root location of images `https://raw.githubusercontent.com/OulipianSummer/oulipiansummer.github.io/main/assets/img/portoflio/`
