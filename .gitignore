@@ -9,6 +9,7 @@ _site
 
 # RubyGems
 *.gem
+/gems
 
 # NPM dependencies
 node_modules
