@@ -3,10 +3,7 @@ layout: post
 title: In Introduction
 date: '2023-07-18 17:36:52 +0000'
 categories: [Blog]
-tags: [welcome]
 ---
-
-<base target="_blank">
 
 ## Hello World
 

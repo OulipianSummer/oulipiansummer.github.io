@@ -6,15 +6,13 @@ categories: [Portfolio]
 tags: [frontend, drupal, php, webserver management]
 ---
 
-<base target="_blank">
-
 ## Blank Media Printing
 
-<p><i class="fas fa-link"></i> Link: <a href="https://www.blankmediaprinting.com/">https://www.blankmediaprinting.com/</a></p>
+<p><i class="fas fa-link"></i> Link: <a target="_blank" href="https://www.blankmediaprinting.com/">https://www.blankmediaprinting.com/</a></p>
 
-Blank Media Printing approached us to help make the public-facing-pages on their website load faster. As you might expect, this is a very common request.
+When I worked with Bitcookie, Blank Media Printing approached us to help make the public-facing-pages on their website load faster. As you might expect, this is a very common request.
 
-In our day-to-day work, this typically meant that we would need to tune the server: we would probably just optimize some page queries, update a template or two, compress some images, pare down the number of serial requests on each page, and then do some testing.
+In our day-to-day work as web developers, this typically meant that we would need to tune the server: we would probably just optimize some page queries, update a template or two, compress some images, pare down the number of serial requests on each page, and then do some testing.
 
 However, once we started our work, we found that the vast majority of their page content, including custom page templates and scripts, were stored in old-school WYSIWYG text editors. Unfortunately, this meant that they were out of the reach of any server code that we could use to optimize their pages, which rendered our toolkit of tried-and-true methods all but useless.
 

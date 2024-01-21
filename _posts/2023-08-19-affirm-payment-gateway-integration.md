@@ -6,11 +6,9 @@ categories: [Portfolio]
 tags: [backend, drupal, payment gateway, api integration, affirm]
 ---
 
-<base target="_blank">
-
 ## Bison Disc
 
-<p><i class="fas fa-link"></i> Link: <a href="https://www.bisondisc.com/">https://www.bisondisc.com/</a></p>
+<p><i class="fas fa-link"></i> Link: <a target="_blank" href="https://www.bisondisc.com/">https://www.bisondisc.com/</a></p>
 
 Maintaining legacy projects strikes a delicate balance between the old and the new. In many regards, upgrading a working stack of software so that it has all of the newest bells and whistles is an expensive, time consuming, and disruptive change. In most cases, the old adage of "if it ain't broke, don't fix it" still applies.
 
