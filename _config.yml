@@ -19,7 +19,7 @@ title: Andrew Benbow # the main title
 tagline: Web Developer Located in Asheville, NC specializing in Drupal, WordPress, React, and Django # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  I write about web development and live. Sometimes it will be funny.
+  I write about web development and life. Sometimes it will be funny.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -53,7 +53,7 @@ google_analytics:
   id: # fill in your Google Analytics ID
 
 goatcounter:
-  id: # fill in your Goatcounter ID
+  id: oulipiansummer # fill in your Goatcounter ID
 
 # Prefer color scheme setting.
 #
