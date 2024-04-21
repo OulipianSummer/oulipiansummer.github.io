@@ -3,7 +3,7 @@ let
   gems = bundlerEnv {
     name = "personal-website-bundler-env";
     inherit ruby;
-    gemfile = ./Gemfile;
+    gemfile = ./local.Gemfile;
     lockfile = ./local.Gemfile.lock;
     gemset = ./gemset.nix;
   };
