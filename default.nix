@@ -9,9 +9,5 @@ let
   };
 in stdenv.mkDerivation {
   name = "personal-website";
-  buildInputs = [gems bundler ruby];
-
-  shellHook = ''
-    exec ${gems}/bin/jekyll serve --watch
-  '';
+  buildInputs = [gems bundler bundix ruby];
 }
