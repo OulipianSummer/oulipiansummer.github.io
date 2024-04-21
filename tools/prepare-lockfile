@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Check if Gemfile.lock exists
+if [ ! -f "Gemfile.lock" ]; then
+    echo "Gemfile.lock not found!"
+    exit 1
+fi
+
+# Regular expression to strip "-x86_64-linux" or "x86_64-linux-gnu" from the end of gem names
+regex="s/(-x86_64-linux|x86_64-linux-gnu)//g"
+
+# Read Gemfile.lock, apply regex replacement, and print the modified content
+sed -E "$regex" Gemfile.lock > local.Gemfile.lock
+
+echo "Prepared local.Gemfile.lock"

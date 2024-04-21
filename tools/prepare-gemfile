@@ -1,0 +1,63 @@
+#!/bin/bash
+
+# Function to fetch gemspec content
+fetch_gemspec() {
+    local gemspec_file="$1"
+
+    # Extract gem names, versions, and required Ruby version
+    gems=$(grep "spec.add_runtime_dependency" "$gemspec_file" | awk -F '"' '{print $2}')
+    versions=$(grep "spec.add_runtime_dependency" "$gemspec_file" | awk -F '"' '{print $4}')
+    ruby_version=$(grep "spec.required_ruby_version" "$gemspec_file" | awk -F '"' '{print $2}')
+
+    # Output to Gemfile
+    echo "# Gemfile generated from $gemspec_file"
+    echo ""
+    echo "ruby '$ruby_version'"
+    echo ""
+
+    i=1
+    for gem in $gems; do
+        version=$(echo "$versions" | sed -n "${i}p")
+        echo "gem '$gem', '$version'"
+        ((i++))
+    done
+}
+
+# Function to swap gemspec with gemspec content
+swap_gemspec() {
+    local gemfile="$1"
+    local gemspec_content
+
+    # Check if Gemfile exists
+    if [ ! -f "$gemfile" ]; then
+        echo "Gemfile not found!"
+        exit 1
+    fi
+
+    # Fetch gemspec content
+    gemspec_content=$(fetch_gemspec "jekyll-theme-chirpy.gemspec")
+
+    # Replace gemspec with gemspec content
+    #sed -i "/^gemspec$/r $gemspec_content" "$gemfile"
+    #sed -i "/^gemspec$/d" "$gemfile"
+    awk -v content="$gemspec_content" '/^gemspec$/ {print content; next} 1' "$gemfile" > tmpfile && mv tmpfile "$gemfile"
+}
+
+# Function to strip jruby platform argument
+strip_jruby_platform() {
+    local gemfile="$1"
+
+    # Check if Gemfile exists
+    if [ ! -f "$gemfile" ]; then
+        echo "Gemfile not found!"
+        exit 1
+    fi
+
+    # Strip jruby platform argument from http_parser.rb gem
+    sed -i '/gem "http_parser.rb"/ s/, :platforms => \[:jruby\]//' "$gemfile"
+}
+
+# Main script
+cp Gemfile local.Gemfile
+swap_gemspec local.Gemfile
+strip_jruby_platform local.Gemfile
