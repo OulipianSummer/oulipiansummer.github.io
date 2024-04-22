@@ -80,6 +80,10 @@
     <link rel="dns-prefetch" href="https://www.googletagmanager.com">
   {% endif %}
 
+  {% if site.webmentions.id != empty and site.webmentions.id %}
+    <link rel="webmention" href="https://webmention.io/{{ site.webmentions.id }}/webmention" />
+  {% endif %}
+
   <!-- Bootstrap -->
   <link rel="stylesheet" href="{{ site.data.origin[type].bootstrap.css | relative_url }}">
 
