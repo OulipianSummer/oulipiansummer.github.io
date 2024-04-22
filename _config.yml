@@ -55,6 +55,9 @@ google_analytics:
 goatcounter:
   id: # fill in your Goatcounter ID
 
+webmentions:
+  id: # fill in your webmentions ID
+
 # Prefer color scheme setting.
 #
 # Note: Keep empty will follow the system prefer color by default,
