@@ -3,7 +3,7 @@ layout: post
 title: Thoughts On The Indie Web
 date: '2024-04-21 13:58:00 +0000'
 categories: [Blog]
-tags: [indie web, personal website]
+tags: [indie web, metablog]
 ---
 
 Although it wouldn't show it it, my personal website has just undergone a pretty large change. Last year, I switched my personal portfolio away from a custom Drupal 9 website to a no-frills Jekyll website using a pre-built theme hosted on GitHub pages. I did this largely so I wouldn't have to spend so much time fiddling and fretting over the source code. The theme was locked down and didn't offer a ton of customization options, and for a time, I was at peace.
@@ -18,4 +18,6 @@ Historically, a lot of these pages were self hosted by tech savvy folks who know
 
 In recent years, there has been a lot of interest in trying to revive this slower, more community focused style of internet using a mix of old and new tools like [RSS](https://wilw.dev/blog/2021/02/03/rss-rise-fall-rise/), [Web Mentions](https://indieweb.org/Webmention), and fancy protocols like [Federation](https://en.wikipedia.org/wiki/Fediverse).
 
-All of this goes to say that I think we're seeing something new and interesting happening with the web where, once again, the focus is being shifted (perhaps only in part) back to weird, personal spaces like this blog where the owner has the ability to build, create, and connect with people over an independent website. That said, just today I shifted my locked-down little Jekyll website into a full-fledged fork of the upstream Jekyll theme. I now have a much broader control over the way everything works, all the way from the layout, and the tech stack in my website down to the way I (in theory) could implement comments or content synchronization. Of course, this is the exact opposite direction I wanted to take this website in when I first migrated away from Drupal, but I really do feel more empowered knowing that, if I want to or need to make a change, or I wanted to experiment with a new layout, feature, or color scheme that that reality is only a few keystrokes away.
+All of this goes to say that I think we're seeing something new and interesting happening with the web where, once again, the focus is being shifted (perhaps only in part) back to weird, personal spaces like this blog where the owner has the ability to build, create, and connect with people over an independent website. That said, just today I shifted my locked-down little Jekyll website into a full-fledged fork of the upstream Jekyll theme. 
+
+I now have a much broader control over the way everything works, all the way from the layout, and the tech stack in my website down to the way I (in theory) could implement comments or content synchronization. Of course, this is the exact opposite direction I wanted to take this website in when I first migrated away from Drupal, but I really do feel more empowered knowing that, if I want to or need to make a change, or I wanted to experiment with a new layout, feature, or color scheme that that reality is only a few keystrokes away.
