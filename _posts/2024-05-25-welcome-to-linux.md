@@ -112,11 +112,11 @@ Plus, if the worst ever does happen, there are tremendous amounts of easy-to-rea
 
 So, in the spirit of clearing the air a bit, here are a few more Linux myths that I want to address.
 
-1. Linux is difficult to use / too niche / only for programmers.
+**Myth: Linux is difficult to use / too niche / only for programmers.**
 
 Although Linux has traditionally been popular with programmers and niche markets because of its extensible design, it is not inherently hostile to new users. What really matters is which flavor of Linux you choose to use. Some are much more reminiscent of Mac OSX and Windows in terms of a clean, modern user experience, and others are geared more towards tinkerers, programmers, and business executives. This is a fairly lengthy topic that we will touch on in the Distributions section of this guide (TBD), but for now know that your experience has a lot to do with which version of Linux you choose, and there are *a lot* of choose from.
 
-2. Linux doesn't have X, Y, or Z app.
+**Myth: Linux doesn't have X, Y, or Z app.**
 
 This is a common criticism lobbed at Linux that does have some validity because of the simple fact not every app is going work on every system-- that's just the nature of software. That said, many popular applications do have official Linux releases, and those that don't often get brought over to Linux by community members who repackaged that application to work on Linux. Sometimes, even if there isn't a community powered port of your favorite application, there are still ways you can run it on your Linux system.
 
@@ -124,7 +124,7 @@ For example, Adobe does not make any official releases for PhotoShop for Linux. 
 
 And if for whatever reason you can't find an app with a community release or good support in either WINE or Darling, you can also just take a dive into the giant ecosystem of apps designed especially for Linux, of which there are thousands to choose from, many of which actually run smoother than a community powered port.
 
-3. Linux doesn't have any official support, and the users are rude.
+**Myth: Linux doesn't have any official support, and the users are rude.**
 
 Like I said earlier, unfortunately, this is the internet, and there are rude people out there. But on the upside, there are plenty of good people out there who are willing and able to help you, but you need to know where to look for them. As a part of this guide, I will post links to Linux support communities that are well equipped to help you solve your specific problems. Some of these communities are more geared towards nice topics like gaming or hardware, and others are more generally focused on helping you use and get used to your new operating system as a newcomer. 
 
