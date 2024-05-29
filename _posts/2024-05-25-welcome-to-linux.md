@@ -9,9 +9,9 @@ pin: true
 
 I would like to personally welcome you to the ever-growing, ever-changing, and ever-improving community of Linux: a privacy respecting, stable, secure, infinitely customizable and free-to-use operating system designed for home and professional use. I have written this guide to help consolidate the massive (and sometimes confusing) body of information about this software into an easy-to-digest, non-technical introduction to Linux for personal use.
 
-Specifically, I will try to address a lot of the whats, whys, and hows surrounding this operating system, answer some common questions, debunk some myths, and introduce you to the fastest and easiest pathways to successfully start using Linux on your home computer with no prior experience. This is not an advanced tutorial, and I will make no assumptions regarding your technical prowess. At no point during this guide, or at any time after it, will you need to open up a terminal or enter prompts into an old-school command line interface (unless you chose to, which is also valid!). At most you will need a access to this guide, a computer with an internet connection, and the ability to follows simple instructions.
+Specifically, I will try to address a lot of the whats, whys, and hows surrounding this operating system, answer some common questions, debunk some myths, and introduce you to the fastest and easiest pathways to successfully start using Linux on your home computer with no prior experience. This is not an advanced tutorial, and I will make no assumptions regarding your technical prowess. At no point during this guide, or at any time after it, will you need to open up a terminal or enter prompts into an old-school command line interface (unless you chose to, which is also valid!). At most you will need a access to this guide, a computer with an internet connection, and the ability to follow simple instructions.
 
-At the end of reading this guide, my greatest hope is to arm you with the information to help free you from the seemingly endless litany of disappointments, frustrations, threats to your privacy, and strains on your wallet imposed by the two primary commercial operating systems: Mac OSX and Windows. 
+At the end of reading this guide, my greatest hope is that you walk away with the information that will free you from the seemingly endless litany of disappointments, frustrations, threats to your privacy, and strains on your wallet imposed by the two primary commercial operating systems: Mac OSX and Windows. 
 
 Furthermore, I will add to this guide over time to appeal to different user groups and those with different levels of experience or interests. Think of these additions as diversions or breakout sessions: optional, and perhaps slightly more technical deep dives that answer specific questions or speak to unique experiences and situations. Given the fact that Linux is so customizable and flexible, it lends itself to a lot of unusual use cases that require some extra discussion for those interested. However, the core of this guide will be intended for complete beginners and none of this additional reading will be required to help you get started using Linux for every-day computing.
 
@@ -19,9 +19,9 @@ Furthermore, I will add to this guide over time to appeal to different user grou
 
 Currently, I am hosting this guide on my personal blog and I am going to continue adding to it in the following weeks and months. What you are reading right now is the introduction page. Think of this as the lobby of a large building. 
 
-In front if you is a wide hallway leading up to a grand stairway. This is the primary path intended for most people, what I am calling "The Core Guide"-- the straight-forward, easy path to using Linux I was talking about earlier. If you only follow this path you will inevitably land at the stated goal of using Linux for your personal computer.
+In front if you is a wide hallway leading up to a grand stairway. This is the primary path intended for most people, what I am calling "The Core Guide"-- the straight-forward, easy path to using Linux I was talking about earlier. If you only follow this path you will inevitably land at the stated goal of using Linux for your personal computing needs.
 
-Dotted around the edges of the lobby are smaller corridors and paths that lead off of the main entryway. Think of these as the optional additional deep-dives I also mentioned above. I have labeled these as "Auxiliary Guides". You can peruse these at your leisure, and they may even give our more context, open new opportunities, and give you perspectives during your journey, but they are not required to reach your ultimate goal.
+Dotted around the edges of the lobby are smaller corridors and paths that lead off of the main entryway. Think of these as the optional deep-dives I also mentioned above. I have labeled these as "Auxiliary Guides". You can peruse these at your leisure, and they may even give you more context, open new opportunities, and offer you alternative perspectives during your journey. However, they are not required to reach your ultimate goal.
 
 Below, I have laid out a road map for the topics we will cover in the posts that make up this blog series. Feel free to reference it if needed.
 
@@ -29,7 +29,7 @@ Below, I have laid out a road map for the topics we will cover in the posts that
 
 ### The Core Guide
 - Introduction (you are here!)
-- Distributions
+- <a href="/posts/welcome-to-linux-distributions">Distributions</a>
 - Desktops
 - Decisions
 - Installation
@@ -48,13 +48,13 @@ I will also provide a Quick Start Guide (TBD) that will summarize all of the inf
 
 Now that you have a basic idea of where this guide is going and what future posts may look like, let's get started with the basics.
 
-The following information is more to provide some background to what Linux is, explain some history, detail what the software ecosystem looks like, talk about how updates work (at a broad scale), and debunk some myths. If you're not interested in this and just want to skip ahead to the next major part, I encourage that! 
+The following information is intended to provide some background to what Linux is, explain some history, detail what the software ecosystem looks like, talk about how updates work (at a broad scale), and debunk some myths. If you're not interested in this and just want to skip ahead to the next major part, I encourage that! 
 
-Check out the Distributions (TBD) section at any time to move forward in the guide.
+Check out the <a href="/posts/welcome-to-linux-distributions">Distributions</a> (TBD) section at any time to move forward in the guide.
 
 ## What is Linux?
 
-Linux is a free operating system developed by a team of volunteers all over the world. It is designed to be highly customizeable and modular, meaning that a user is able to modify any part of it according to their exact needs. Furthermore, it compatible with a wide range of hardware and accessories, meaning it can run on just about any computer you have laying around. Linux is so flexible and powerful in fact that is has been used to power a wide range of computing devices, including:
+Linux is a free operating system developed by a team of volunteers all over the world. It is designed to be highly customizable and modular, meaning that a user is able to modify any part of it according to their exact needs. Furthermore, it is compatible with a wide range of hardware and accessories, meaning it can run on just about any computer you have laying around. Linux is so flexible and powerful in fact that it has been used to power a wide range of computing devices, including:
 
 - [Android OS](https://en.wikipedia.org/wiki/Android_(operating_system)), the ubiquitous smartphone/computer operating system developed by Google uses a modified form of Linux. This makes it responsible for powering [about 85% of smartphones](https://truelist.co/blog/linux-statistics/) (including those that are using something other than Android).
 - Supercomputers. Linux powers all of the world's [500 fastest supercomputers](https://en.wikipedia.org/wiki/TOP500#Architecture_and_operating_systems).
@@ -114,7 +114,7 @@ So, in the spirit of clearing the air a bit, here are a few more Linux myths tha
 
 **Myth: Linux is difficult to use / too niche / only for programmers.**
 
-Although Linux has traditionally been popular with programmers and niche markets because of its extensible design, it is not inherently hostile to new users. What really matters is which flavor of Linux you choose to use. Some are much more reminiscent of Mac OSX and Windows in terms of a clean, modern user experience, and others are geared more towards tinkerers, programmers, and business executives. This is a fairly lengthy topic that we will touch on in the Distributions section of this guide (TBD), but for now know that your experience has a lot to do with which version of Linux you choose, and there are *a lot* of choose from.
+Although Linux has traditionally been popular with programmers and niche markets because of its extensible design, it is not inherently hostile to new users. What really matters is which flavor of Linux you choose to use. Some are much more reminiscent of Mac OSX and Windows in terms of a clean, modern user experience, and others are geared more towards tinkerers, programmers, and business executives. This is a fairly lengthy topic that we will touch on in the <a href="/posts/welcome-to-linux-distributions">Distributions</a> section of this guide, but for now know that your experience has a lot to do with which version of Linux you choose, and there are *a lot* of choose from.
 
 **Myth: Linux doesn't have X, Y, or Z app.**
 
@@ -134,4 +134,4 @@ Honestly I think what drives this myth is the fact that you can't always just go
 
 That about does it for the introduction section. Next we're going to actually start making decisions about what version or flavor of Linux (often called a Distribution or "Distro" for short) that best fits your needs. We'll be exploring some of the most popular and most user-friendly distros, and explain how you can leverage specific distros to replicate familiar workflows or aesthetics found on Mac OSX or Windows.
 
-Click here to read the next section on Distributions (TBD).
+Click here to read the next section on <a href="/posts/welcome-to-linux-distributions">Distributions</a>.
