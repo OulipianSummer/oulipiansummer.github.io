@@ -44,7 +44,7 @@ Below, I have laid out a road map for the topics we will cover in the posts that
 - Navigating the File Structure
 - Navigating the Command Prompt
 
-I will also provide a Quick Start Guide (TBD) that will summarize all of the information contained in The Core Guide into a simple 10-15 minute tutorial so you can hit the ground running right away. The main difference between The Quick Start Guide and The Core Guide is that instead of taking the time to let you make decisions along the way to better suit your use case or particular tastes, I will just tell you how to use and install a version of Linux that will most most people's needs and point you towards some resources to get acquainted with your new system.
+I will also provide a Quick Start Guide (TBD) that will summarize all of the information contained in The Core Guide into a simple 10-15 minute tutorial so you can hit the ground running right away. The main difference between The Quick Start Guide and The Core Guide is that instead of taking the time to let you make decisions along the way to better suit your use case or particular tastes, I will just tell you how to use and install a version of Linux that will fit most people's needs. I will also point you towards some resources to get acquainted with your new system.
 
 Now that you have a basic idea of where this guide is going and what future posts may look like, let's get started with the basics.
 
