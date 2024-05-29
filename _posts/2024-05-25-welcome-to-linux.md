@@ -90,7 +90,7 @@ An example of this in action is the fact that Linux runs exceptionally well on b
 
 That's the power of community at work. By working together, everybody benefits, and those benefits are spread around evenly, not just to those with the newest hardware or the most money.
 
-As one Linux user on Mastodon noted the benefits of Linux when comparing it to Windows just after the announcement of Microsoft's [controversial](https://www.forbes.com/sites/thomasbrewster/2024/05/28/microsoft-recall-feature-is-always-watching/?sh=409401778bfc) and [invasive](https://www.bleepingcomputer.com/news/microsoft/microsofts-new-windows-11-recall-is-a-privacy-nightmare/) Recall feature set to be released in Windows 11:
+As one Linux user on Mastodon noted, Linux is slowly improving on this model and it is getting better every day. The user made these observations about Linux when comparing it to Windows just after the announcement of Microsoft's [controversial](https://www.forbes.com/sites/thomasbrewster/2024/05/28/microsoft-recall-feature-is-always-watching/?sh=409401778bfc) and [invasive](https://www.bleepingcomputer.com/news/microsoft/microsofts-new-windows-11-recall-is-a-privacy-nightmare/) Recall feature set to be released in Windows 11.
 
 > If you have to choose between something that used to be crap but is slowly getting better [Linux], and something that used to be alright but is getting inexorably worse [Windows], the best time to jump is gonna be when you get to see and take joy in the getting-better bit.
 > 
