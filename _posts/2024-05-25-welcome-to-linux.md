@@ -2,8 +2,8 @@
 layout: post
 title: Welcome To Linux, A Practical Guide for Complete Beginners
 date: '2024-05-25 17:47:33 +0000'
-categories: [Linux]
-tags: [guide, linux]
+categories: [Welcome To Linux]
+tags: [welcome to linux, guide, linux]
 pin: true
 ---
 
