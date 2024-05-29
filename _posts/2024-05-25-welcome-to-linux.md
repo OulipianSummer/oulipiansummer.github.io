@@ -4,6 +4,7 @@ title: Welcome To Linux, A Practical Guide for Complete Beginners
 date: '2024-05-25 17:47:33 +0000'
 categories: [Linux]
 tags: [guide, linux]
+pin: true
 ---
 
 I would like to personally welcome you to the ever-growing, ever-changing, and ever-improving community of Linux: a privacy respecting, stable, secure, infinitely customizable and free-to-use operating system designed for home and professional use. I have written this guide to help consolidate the massive (and sometimes confusing) body of information about this software into an easy-to-digest, non-technical introduction to Linux for personal use.
