@@ -29,7 +29,7 @@ Below, I have laid out a road map for the topics we will cover in the posts that
 
 ### The Core Guide
 - Introduction (you are here!)
-- <a href="/posts/welcome-to-linux-distributions">Distributions</a>
+- Distributions
 - Desktops
 - Decisions
 - Installation
@@ -50,7 +50,7 @@ Now that you have a basic idea of where this guide is going and what future post
 
 The following information is intended to provide some background to what Linux is, explain some history, detail what the software ecosystem looks like, talk about how updates work (at a broad scale), and debunk some myths. If you're not interested in this and just want to skip ahead to the next major part, I encourage that! 
 
-Check out the <a href="/posts/welcome-to-linux-distributions">Distributions</a> (TBD) section at any time to move forward in the guide.
+Check out the Distributions (TBD) section at any time to move forward in the guide.
 
 ## What is Linux?
 
@@ -134,4 +134,4 @@ Honestly I think what drives this myth is the fact that you can't always just go
 
 That about does it for the introduction section. Next we're going to actually start making decisions about what version or flavor of Linux (often called a Distribution or "Distro" for short) that best fits your needs. We'll be exploring some of the most popular and most user-friendly distros, and explain how you can leverage specific distros to replicate familiar workflows or aesthetics found on Mac OSX or Windows.
 
-Click here to read the next section on <a href="/posts/welcome-to-linux-distributions">Distributions</a>.
+Click here to read the next section on Distributions (TBD).
