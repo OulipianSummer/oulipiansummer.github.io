@@ -114,7 +114,7 @@ So, in the spirit of clearing the air a bit, here are a few more Linux myths tha
 
 **Myth: Linux is difficult to use / too niche / only for programmers.**
 
-Although Linux has traditionally been popular with programmers and niche markets because of its extensible design, it is not inherently hostile to new users. What really matters is which flavor of Linux you choose to use. Some are much more reminiscent of Mac OSX and Windows in terms of a clean, modern user experience, and others are geared more towards tinkerers, programmers, and business executives. This is a fairly lengthy topic that we will touch on in the <a href="/posts/welcome-to-linux-distributions">Distributions</a> section of this guide, but for now know that your experience has a lot to do with which version of Linux you choose, and there are *a lot* of choose from.
+Although Linux has traditionally been popular with programmers and niche markets because of its extensible design, it is not inherently hostile to new users. What really matters is which flavor of Linux you choose to use. Some are much more reminiscent of Mac OSX and Windows in terms of a clean, modern user experience, and others are geared more towards tinkerers, programmers, and business executives. This is a fairly lengthy topic that we will touch on in the Distributions section of this guide, but for now know that your experience has a lot to do with which version of Linux you choose, and there are *a lot* of choose from.
 
 **Myth: Linux doesn't have X, Y, or Z app.**
 
