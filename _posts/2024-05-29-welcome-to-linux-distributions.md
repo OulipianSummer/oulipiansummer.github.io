@@ -267,9 +267,9 @@ If you consider yourself a more advanced or adventurous user who wants to see wh
 
 This is also a community powered distro like Elementary OS, Zorin OS, and Linux Mint, meaning that there isn't a company backing it financially. That may not be a drawback, however, when you consider that the community behind making this distro is really quite large and very dedicated. Some time back, two other Linux communities from defunct distros merged together to help make MX Linux by melding their interests together and pooling their resources. If you were looking for an opportunity to get involved in the Linux community, this may be a good place to start.
 
-# Next Steps
+## Next Steps
 
-I would urge you at this point to explore, read up on the distros that caught your interest and start considering which community of operating system feels the most inviting, interesting, or comfortable to you.
+I would urge you at this point to explore, read up on the distros that caught your interest and start considering which community feels the most inviting, interesting, or comfortable to you.
 
 In the next post, I am going to discuss another Linux concept called "Desktop Environments". This post will talk about the fact that, in Linux, if you don't like the way a certain distro looks or behaves, you can just as easily swap out the **entire** user interface for something else that does. Or, just as easily, you can install two different desktop environments, and switch between them whenever you want. 
 
