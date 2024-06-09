@@ -29,7 +29,7 @@ Below, I have laid out a road map for the topics we will cover in the posts that
 
 ### The Core Guide
 - Introduction (you are here!)
-- Distributions
+- <a href="/posts/welcome-to-linux-distributions">Distributions</a>
 - Desktops
 - Decisions
 - Installation
@@ -50,7 +50,7 @@ Now that you have a basic idea of where this guide is going and what future post
 
 The following information is intended to provide some background to what Linux is, explain some history, detail what the software ecosystem looks like, talk about how updates work (at a broad scale), and debunk some myths. If you're not interested in this and just want to skip ahead to the next major part, I encourage that! 
 
-Check out the Distributions (TBD) section at any time to move forward in the guide.
+Check out the <a href="/posts/welcome-to-linux-distributions">Distributions</a> section at any time to move forward in the guide.
 
 ## What is Linux?
 
@@ -114,7 +114,7 @@ So, in the spirit of clearing the air a bit, here are a few more Linux myths tha
 
 ### Myth: Linux is difficult to use / too niche / only for programmers.
 
-Although Linux has traditionally been popular with programmers and niche markets because of its extensible design, it is not inherently hostile to new users. What really matters is which flavor of Linux you choose to use. Some are much more reminiscent of Mac OSX and Windows in terms of a clean, modern user experience, and others are geared more towards tinkerers, programmers, and business executives. This is a fairly lengthy topic that we will touch on in the Distributions section of this guide, but for now know that your experience has a lot to do with which version of Linux you choose, and there are *a lot* of choose from.
+Although Linux has traditionally been popular with programmers and niche markets because of its extensible design, it is not inherently hostile to new users. What really matters is which flavor of Linux you choose to use. Some are much more reminiscent of Mac OSX and Windows in terms of a clean, modern user experience, and others are geared more towards tinkerers, programmers, and business executives. This is a fairly lengthy topic that we will touch on in the <a href="/posts/welcome-to-linux-distributions">Distributions</a> section of this guide, but for now know that your experience has a lot to do with which version of Linux you choose, and there are *a lot* of choose from.
 
 ### Myth: Linux doesn't have X, Y, or Z app.
 
@@ -136,4 +136,4 @@ I also want to challenge the idea of "officiality" in some technical support. Wh
 
 That about does it for the introduction section. Next we're going to actually start making decisions about what version or flavor of Linux (often called a Distribution or "Distro" for short) that best fits your needs. We'll be exploring some of the most popular and most user-friendly distros, and explain how you can leverage specific distros to replicate familiar workflows or aesthetics found on Mac OSX or Windows.
 
-Click here to read the next section on Distributions (TBD).
+<a href="/posts/welcome-to-linux-distributions">Click here to read the next section on Distributions</a>.
