@@ -54,11 +54,11 @@ Without any further ado, let's take a look at some of the most user friendly Lin
 ![A desktop screenshot of Zorin OS, a Windows-like Linux distribution.](https://raw.githubusercontent.com/OulipianSummer/oulipiansummer.github.io/main/assets/img/wtl/zorin-desktop.png)
 *Zorin OS is a solid choice for users who are familiar with Microsoft Windows*
 
-Homepage: [https://zorin.com/os/](https://zorin.com/os/)
-Downloads: [https://zorin.com/os/download/](https://zorin.com/os/download/)
-Support: [https://help.zorin.com/](https://help.zorin.com/)
-Discussion Boards: [https://forum.zorin.com/](https://forum.zorin.com/)
-Developed By: Zorin Group
+- Homepage: [https://zorin.com/os/](https://zorin.com/os/)
+- Downloads: [https://zorin.com/os/download/](https://zorin.com/os/download/)
+- Support: [https://help.zorin.com/](https://help.zorin.com/)
+- Discussion Boards: [https://forum.zorin.com/](https://forum.zorin.com/)
+- Developed By: Zorin Group
 
 Zorin OS is quite probably one of easiest distros to jump into if you are coming from Windows for three important reasons. First, the entire user interface has been designed from the ground up to look and behave like Windows. Second, a lot of the default applications were chosen or made to look like those that come with Windows. And third, Zorin actually comes with an application that helps your run your Windows applications, so you can just drop into a familiar workflow right out of the gate, no stress, no mess.
 
@@ -77,10 +77,10 @@ Zorin will be a comfortable solution to people who want a plug-and-play, batteri
 ![A desktop screenshot of Elementary OS, a Mac OSX-like Linux distribution.](https://raw.githubusercontent.com/OulipianSummer/oulipiansummer.github.io/main/assets/img/wtl/elementary-desktop.jpg)
 *Elementary OS is a beautiful, functional, and clean Linux experience reminiscent of Mac OSX*
 
-Homepage: [https://elementary.io/](https://elementary.io/)
-Downloads: There is a "Pay What You Can" button on the front page (linked above) that allows you declare your own price for download. $0 is a valid option.
-Support: [https://elementary.io/support](https://elementary.io/support)
-Developed By: elementary, Inc.
+- Homepage: [https://elementary.io/](https://elementary.io/)
+- Downloads: There is a "Pay What You Can" button on the front page (linked above) that allows you declare your own price for download. $0 is a valid option.
+- Support: [https://elementary.io/support](https://elementary.io/support)
+- Developed By: elementary, Inc.
 
 Elementary OS is without a doubt one of the most stylish distros out there, with ultra-clean looks reminiscent of Mac OSX. Elementary takes a more minimal and modern approach to their desktop interface. There is a dock at the bottom of the screen, a top bar, a gorgeous wallpaper (usually of the sort you would expect from Apple, perhaps of a national park or a shot of Antelope Canyon), and that's it. The interface intentionally omits desktop icons for a less cluttered look, but you can still manage all of your files from the integrated file browser.
 
@@ -90,7 +90,7 @@ Elementary OS advertises itself as "[t]he thoughtful, capable, and ethical repla
 
 This pay-what-you-can model is also reflected in Elementary's beautiful app store (which other distros have subsequently baked into their software center offerings because it is remarkably elegant to look at). Elementary OS also has a partner program with app developers to help them get re-reimbursed for their work. If you are an app developer, you can actually partner with Elementary to list a suggested donation price alongside the download button for your app in the Elementary app store, that way you can get paid for you work that would otherwise go without compensation. Again, these prices are optional for the person downloading it, and you can opt to pay nothing if you wish.
 
-The app store also includes a neat feature where if a given application you're looking for is not in the app store (usually something like a commercial app that doesn't make Linux releases-- something like Zoom, Skype, or Slack), you can search against a secondary application store called [Flathub](https://www.flathub.org). Flathub (and the apps on it, which are called "Flatpaks") popped up a fairly recently in the history of Linux and were instrumental in unifying the diverse application ecosystem across Linux, Windows, and MacOS. Flathub is full of a mix of commercial and free applications that you wouldn't traditionally find on Linux app stores, making it easier to jump into Linux and have familiar applications on hand without having to do anything extra.
+The app store also includes a neat feature where if a given application you're looking for is not in the app store (usually something like a commercial app that doesn't make Linux releases-- something like Zoom, Skype, or Slack), you can search against a secondary application store called [Flathub](https://flathub.org). Flathub (and the apps on it, which are called "Flatpaks") popped up a fairly recently in the history of Linux and were instrumental in unifying the diverse application ecosystem across Linux, Windows, and MacOS. Flathub is full of a mix of commercial and free applications that you wouldn't traditionally find on Linux app stores, making it easier to jump into Linux and have familiar applications on hand without having to do anything extra.
 
 Long time MacOS users will also appreciate the fact that Flatpak apps are self-contained, meaning that downloading, installing, and subsequently removing them has minimal impact on your file system. In other words, you won't have to install 30-40 pieces of supporting software to install a Flatpak-- it's just plug and play, and when you're done, uninstalling the app will remove all of the supporting software making it a very clean solution. By default, Elementary's app store checks for updates on both Flatpaks and standard applications so you only need to visit one place and click one button to keep your whole system up to date. It's a small detail, but it makes life a lot easier.
 
@@ -107,11 +107,11 @@ Elementary OS will appeal to users who want a beautiful, clean, and minimal Appl
 ![A desktop screenshot of Linux Mint, a Linux distribution aimed at new users.](https://raw.githubusercontent.com/OulipianSummer/oulipiansummer.github.io/main/assets/img/wtl/linux-mint-desktop.png)
 *Linux Mint is a blend of ideas from both Windows and Mac OSX that still leaves you the freedom to experiment and explore.*
 
-Homepage: [https://www.linuxmint.com/](https://www.linuxmint.com)
-Downloads: [https://www.linuxmint.com/download.php](https://www.linuxmint.com/download.php)
-Discussion Boards: [https://forums.linuxmint.com/](https://forums.linuxmint.com/)
-Documentation: [https://www.linuxmint.com/documentation.php](https://www.linuxmint.com/documentation.php) 
-Developed By: Clement Lefebvre and the Linux Mint community
+- Homepage: [https://www.linuxmint.com/](https://www.linuxmint.com)
+- Downloads: [https://www.linuxmint.com/download.php](https://www.linuxmint.com/download.php)
+- Discussion Boards: [https://forums.linuxmint.com/](https://forums.linuxmint.com/)
+- Documentation: [https://www.linuxmint.com/documentation.php](https://www.linuxmint.com/documentation.php) 
+- Developed By: Clement Lefebvre and the Linux Mint community
 
 Attentive readers may have noticed that, up til now, I have picked two distros that emulate existing operating systems based almost entirely off of form factor or design aesthetic. However, the Linux world is full of all sorts of distros that depart from the strictly traditional aesthetics and embrace their own path while retaining the ease-of-use of more familiar computer systems.
 
@@ -130,10 +130,10 @@ Linux Mint is a very sensible option for people who still want a solid user expe
 ![A desktop screenshot of Ubuntu, featuring a bright purple background and a left-aligned vertical application dock.](https://raw.githubusercontent.com/OulipianSummer/oulipiansummer.github.io/main/assets/img/wtl/ubuntu-desktop.png)
 *Ubuntu is one of the most popular distros of all time, and it boasts bold looks you won't find anywhere else.*
 
-Homepage: [https://ubuntu.com/](https://ubuntu.com/)
-Downloads: [https://ubuntu.com/desktop](https://ubuntu.com/desktop)
-Discussion Boards: [https://ubuntuforums.org/](https://ubuntuforums.org/) or [https://askubuntu.com/](https://askubuntu.com/)
-Developed By: Canonical
+- Homepage: [https://ubuntu.com/](https://ubuntu.com/)
+- Downloads: [https://ubuntu.com/desktop](https://ubuntu.com/desktop)
+- Discussion Boards: [https://ubuntuforums.org/](https://ubuntuforums.org/) or [https://askubuntu.com/](https://askubuntu.com/)
+- Developed By: Canonical
 
 I have another confession to make. So far, all of the distros I've talked about are actually Ubuntu under the hood with some modifications made to appeal to newcommers to Linux. Surprise! 
 
@@ -172,11 +172,11 @@ Altogether, Ubuntu is a good choice if you want to use a distro that is pretendi
 ![A desktop screenshot of Fedora. The background is a water-color or pasetel-like scene of a forest. A settings application is open in the middle of the screen.](https://raw.githubusercontent.com/OulipianSummer/oulipiansummer.github.io/main/assets/img/wtl/fedora-desktop.png)
 *Fedora is a beautiful operating system with powerful system management tools to keep you system from breaking.*
 
-Homepage:[https://fedoraproject.org/](https://fedoraproject.org/)
-Downloads: [https://fedoraproject.org/workstation](https://fedoraproject.org/workstation)
-Discussion Boards: [https://discussion.fedoraproject.org/](https://discussion.fedoraproject.org/)
-Documentation: [https://docs.fedoraproject.org/en-US/docs/](https://docs.fedoraproject.org/en-US/docs/) 
-Developed By: Red Hat Inc.
+- Homepage:[https://fedoraproject.org/](https://fedoraproject.org/)
+- Downloads: [https://fedoraproject.org/workstation](https://fedoraproject.org/workstation)
+- Discussion Boards: [https://discussion.fedoraproject.org/](https://discussion.fedoraproject.org/)
+- Documentation: [https://docs.fedoraproject.org/en-US/docs/](https://docs.fedoraproject.org/en-US/docs/) 
+- Developed By: Red Hat Inc.
 
 Fedora is yet another popular, easy to use distro that, unlike the previous contenders on this list, is not Ubuntu-based. I promise I don't have any more surprises like that tucked up my sleeve. Instead, Fedora is based off of a system called [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) (or RHEL for short). RHEL is the flagship operating system developed by [Red Hat Inc.](https://www.redhat.com/en), a Durham based international software company that is among one of the most successful companies that develops and distributes Linux. RHEL was originally developed to appeal to businesses who wanted a commercial focused operating system to run their infrastructure, and it is still used for that purpose today.
 
@@ -205,11 +205,11 @@ On the aesthetic side of things, the standard "Fedora look" is just plain gorgeo
 ![A desktop screenshot of Open SUSE Linux showing an app that welcomes the user to their new operating system.](https://raw.githubusercontent.com/OulipianSummer/oulipiansummer.github.io/main/assets/img/wtl/open-suse-desktop.png)
 *OpenSUSE offers some of the most powerful system management tools in the world while still being easy to use.*
 
-Homepage: [https://www.opensuse.org/](https://www.opensuse.org/)
-Downloads: [https://get.opensuse.org/desktop](https://get.opensuse.org/desktop)
-Discussion Boards: [https://forums.opensuse.org/](https://forums.opensuse.org/)
-Documentation: [https://doc.opensuse.org/](https://doc.opensuse.org/)
-Developed By: OpenSUSE Project
+- Homepage: [https://www.opensuse.org/](https://www.opensuse.org/)
+- Downloads: [https://get.opensuse.org/desktop](https://get.opensuse.org/desktop)
+- Discussion Boards: [https://forums.opensuse.org/](https://forums.opensuse.org/)
+- Documentation: [https://doc.opensuse.org/](https://doc.opensuse.org/)
+- Developed By: OpenSUSE Project
 
 By no means should you take it as a sign that OpenSUSE, the last item in this list, is to be treated as an afterthought. By many accounts, OpenSUSE is considered one of the most underrated distros in Linux for reasons we're about to discover. 
 
@@ -248,7 +248,7 @@ I don't want to throw too much at you at this point in time, but there are a few
 ![A desktop screenshot of Pop!_OS, featuring a settings app in the middle of the screen with links to system utilities.](https://raw.githubusercontent.com/OulipianSummer/oulipiansummer.github.io/main/assets/img/wtl/pop-os-desktop.png)
 *Pop OS is a popular choice for makers and heavy graphical work, or just anyone who wants a simple, functional operating system.*
 
-Homepage: [https://pop.system76.com/](https://pop.system76.com/)
+- Homepage: [https://pop.system76.com/](https://pop.system76.com/)
 
 Based off of Ubuntu and developed by Linux computer manufacturer System 76, this operating system is designed from the ground up to be as useful to newcommers as it is to seasoned professionals. It comes pre-installed on all of the computers made by System 76 and is generally intended to be a person's very first Linux experience. What people like about this distro is that it lowers the learning curve that comes with Linux by a great deal and provides a lot of ergonomic improvements that you would typically have to set up yourself like window tiling and workspace management tools. 
 
@@ -259,7 +259,7 @@ All of the choices that the team at System 76 decided on make the whole experien
 ![A desktop screenshot of MX Linux featuring a settings app in the middle of the screen and desktop icons in the background](https://raw.githubusercontent.com/OulipianSummer/oulipiansummer.github.io/main/assets/img/wtl/mx-desktop.png)
 *MX Linux is a popular distro that offers a traditional Linux experience and is more suited for technical users who want to learn Linux from the ground up.*
 
-Homepage: [https://mxlinux.org/](https://mxlinux.org/)
+- Homepage: [https://mxlinux.org/](https://mxlinux.org/)
 
 This is admittedly a bit of a rare recommendation to make to newcommers, but I think this distro is worth considering because of its recent meteoric rise in popularity which, at least to me, must mean that they're doing something right. MX Linux is based off of Debian which makes it a sibling to Ubuntu, not a descendant of it. What makes MX Linux a solid choice for beginners is that it offers a simple, no-nonsense experience more heavily steeped in Linux design principles than other distros on this list. 
 
