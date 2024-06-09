@@ -35,7 +35,7 @@ On that note I want you to understand that, at a bare minimum, all of these Linu
 - Art and design
 - etc.
 
-Unless one distro is specifically well suited for one of these tasks, I won't call attention to for the sake of brevity. The good news is that no matter what you choose to use, you will be choosing among some of the most popular and powerful distros out there today.
+Unless one distro is specifically well suited for one of these tasks, I won't call attention to it for the sake of brevity. The good news is that no matter what you choose to use, you will be choosing from among some of the most popular and powerful distros out there today.
 
 ## Don't Commit Too Early
 
