@@ -6,7 +6,7 @@ categories: [Welcome To Linux]
 tags: [welcome to linux, guide, linux, linux distros]
 ---
 
-Welcome back "Welcome To Linux", my user-friendly, non-technical guide to using Linux for personal computing! In the previous section of this guide, I introduced you to some of the basic information about the Linux operating system. In this post, we are doing to drill down a little further into a concept called distributions or "distros" for short.
+Welcome back to "Welcome To Linux", my user-friendly, non-technical guide to using Linux for personal computing! In the previous section of this guide, I introduced you to some of the basic information about the Linux operating system. In this post, we are doing to drill down a little further into a concept called distributions or "distros" for short.
 
 ## What Are Distros?
 
