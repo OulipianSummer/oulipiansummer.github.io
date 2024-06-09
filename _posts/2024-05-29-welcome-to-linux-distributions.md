@@ -10,7 +10,7 @@ Welcome back "Welcome To Linux", my user-friendly, non-technical guide to using 
 
 ## What Are Distros?
 
-I have a confession to make. Every time I referred to Linux in the previous <a href="/welcome-to-linux">Introduction</a> post, I was actually referring to something called the [Linux Kernel](https://www.kernel.org/)-- a super basic, super modular piece of software that can be extended in any which way you want to build a custom computing system. On it's own the Linux Kernel is actually not a fully functioning operating system with apps, a desktop, or really much of anything you might recognize. Instead, the kernel it is just the framework used for building those tools out. If you were to go and download the Linux Kernel right now, it probably wouldn't be of much use to you.
+I have a confession to make. Every time I referred to Linux in the previous <a href="/posts/welcome-to-linux">Introduction</a> post, I was actually referring to something called the [Linux Kernel](https://www.kernel.org/)-- a super basic, super modular piece of software that can be extended in any which way you want to build a custom computing system. On it's own the Linux Kernel is actually not a fully functioning operating system with apps, a desktop, or really much of anything you might recognize. Instead, the kernel it is just the framework used for building those tools out. If you were to go and download the Linux Kernel right now, it probably wouldn't be of much use to you.
 
 That's where distributions come in.
 
@@ -74,7 +74,7 @@ Zorin will be a comfortable solution to people who want a plug-and-play, batteri
 
 ### Elementary OS
 
-![A desktop screenshot of Elementar OS, a Mac OSX-like Linux distribution.](https://raw.githubusercontent.com/OulipianSummer/oulipiansummer.github.io/main/assets/img/wtl/elementary-desktop.jpg)
+![A desktop screenshot of Elementary OS, a Mac OSX-like Linux distribution.](https://raw.githubusercontent.com/OulipianSummer/oulipiansummer.github.io/main/assets/img/wtl/elementary-desktop.jpg)
 *Elementary OS is a beautiful, functional, and clean Linux experience reminiscent of Mac OSX*
 
 Homepage: [https://elementary.io/](https://elementary.io/)
@@ -90,7 +90,7 @@ Elementary OS advertises itself as "[t]he thoughtful, capable, and ethical repla
 
 This pay-what-you-can model is also reflected in Elementary's beautiful app store (which other distros have subsequently baked into their software center offerings because it is remarkably elegant to look at). Elementary OS also has a partner program with app developers to help them get re-reimbursed for their work. If you are an app developer, you can actually partner with Elementary to list a suggested donation price alongside the download button for your app in the Elementary app store, that way you can get paid for you work that would otherwise go without compensation. Again, these prices are optional for the person downloading it, and you can opt to pay nothing if you wish.
 
-The app store also includes a neat feature where if a given application you're looking for is not in the app store (usually something like a commercial app that doesn't make Linux releases-- something like Zoom, Skype, or Slack), you can search against a secondary application store called [https://flathub.org/](Flathub). Flathub (and the apps on it, which are called "Flatpaks") popped up a fairly recently in the history of Linux and were instrumental in unifying the diverse application ecosystem across Linux, Windows, and MacOS. Flathub is full of a mix of commercial and free applications that you wouldn't traditionally find on Linux app stores, making it easier to jump into Linux and have familiar applications on hand without having to do anything extra.
+The app store also includes a neat feature where if a given application you're looking for is not in the app store (usually something like a commercial app that doesn't make Linux releases-- something like Zoom, Skype, or Slack), you can search against a secondary application store called [https://www.flathub.org](Flathub). Flathub (and the apps on it, which are called "Flatpaks") popped up a fairly recently in the history of Linux and were instrumental in unifying the diverse application ecosystem across Linux, Windows, and MacOS. Flathub is full of a mix of commercial and free applications that you wouldn't traditionally find on Linux app stores, making it easier to jump into Linux and have familiar applications on hand without having to do anything extra.
 
 Long time MacOS users will also appreciate the fact that Flatpak apps are self-contained, meaning that downloading, installing, and subsequently removing them has minimal impact on your file system. In other words, you won't have to install 30-40 pieces of supporting software to install a Flatpak-- it's just plug and play, and when you're done, uninstalling the app will remove all of the supporting software making it a very clean solution. By default, Elementary's app store checks for updates on both Flatpaks and standard applications so you only need to visit one place and click one button to keep your whole system up to date. It's a small detail, but it makes life a lot easier.
 
