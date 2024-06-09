@@ -198,7 +198,7 @@ Going back to the more traditional Fedora Workspace release, you can still expec
 
 In general, the Fedora experience is geared a bit more towards developers in the sense that it comes with development tools like a program that can emulate other operating systems. But even if you never touch those development tools, Fedora can be used for whatever you like and be a good fit for a variety of scenarios.
 
-On the aesthetic side of things, the standard "Fedora look" is just plain gorgeous, full of curved edges, simple colors, and bold wallpapers. The desktop takes a highly modern approach with a bottom dock for your pinned applications and a top bar to display system information. Like Elementary OS it hides desktop icons by default. The rest of your applications are arranged in a grid-style drawer that fades into view when you click a button on the dock. Every part of the desktop is designed to be clutter free, elegant, and pleasant to look at, perhaps more reminiscent of a mobile or tablet-style computer.
+On the aesthetic side of things, the standard "Fedora look" is just plain gorgeous, full of curved edges, simple colors, and bold wallpapers. The desktop takes a highly modern approach with only a top bar to display system information. Like Elementary OS it hides desktop icons by default. The rest of your applications are arranged in a grid-style drawer that fades into view when you press the "super" key on your keyboard (this is usually the Windows key or the Mac OS Command key). Every part of the desktop is designed to be clutter free, elegant, and pleasant to look at, perhaps more reminiscent of a mobile or tablet-style computer.
 
 ### OpenSUSE
 
