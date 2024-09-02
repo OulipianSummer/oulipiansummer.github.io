@@ -7,7 +7,8 @@ tags: [site updates]
 ---
 ## Oof
 
-In case you haven't noticed, things on this site have been pretty stale. After a roughly three month break and after finally deciding to shelve a long-suffering (and long in the tooth) Linux-based blog post series I was planning to write for a rainy day, I'm going to try and recommit myself to bringing this blog back to life one post at a time.
+In case you haven't noticed, things on this site have been pretty stale. After a roughly three month break I've decided to bring this blog back one post at a time. That begins, as all things do, with shelving old projects. Namely, I'm scrapping my long-suffering (and long in the tooth) Introduction to Linux series. I still like the idea of a "choose your own adventure" style blog post series for total newcomers to Linux, but I think the scale of this thing really got out of hand. In the meantime, I'm letting it take a well deserved nap in a new folder I called "retired".
+
 
 ## What's New
 
