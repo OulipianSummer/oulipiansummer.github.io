@@ -27,3 +27,5 @@ I want to turn this space in a bona fide web community, and of course that start
 Of course I'll keep my web development portfolio up here, but I'm looking to expand my blog a little beyond purely professional, or even purely technology based works. Expect talk about fiction, poetry, the long-promised "occasional recipe" from my ancient [introduction post](/posts/in-introduction/), and more.
 
 If you're looking for a place to share ideas, connect with friends, and have an excellent time, I'd like to personally invite you to this empty lot of a website where I intend to build something vaguely resembling that, very, very, soon(tm).
+
+P.S. I switched back to Giscus the moment after I wrote this because time is a flat circle. Also, emojis.
