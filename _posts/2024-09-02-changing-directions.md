@@ -7,7 +7,9 @@ tags: [site updates]
 ---
 ## Oof
 
-In case you haven't noticed, things on this site have been pretty stale. After a roughly three month break I've decided to bring this blog back one post at a time. That begins, as all things do, with shelving old projects. Namely, I'm scrapping my long-suffering (and long in the tooth) Introduction to Linux series. I still like the idea of a "choose your own adventure" style blog post series for total newcomers to Linux, but I think the scale of this thing really got out of hand. In the meantime, I'm letting it take a well deserved nap in a new folder I called "retired".
+In case you haven't noticed, things on this site have been pretty stale. After a roughly three month break I've decided to bring this blog back to life one post at a time. That begins, as all things do, with shelving old projects and making way for new ones. Namely, I'm scrapping my long-suffering (and long in the tooth) Introduction to Linux series. I still like the idea of a "choose your own adventure" style blog post series for total newcomers to Linux, but I think the scale of this thing really got out of hand. In the meantime, I'm letting it take a well deserved nap in a new folder I called "retired".
+
+That said, if any future ~~archaeologists~~ readers of this blog stumble upon this ~~archaic~~ esoteric reference and have any penchant towards learning how to switch to an operating system that actually respects your privacy, let me know! I'd be happy to revive my old posts, if not simply for the nostalgia.
 
 
 ## What's New
