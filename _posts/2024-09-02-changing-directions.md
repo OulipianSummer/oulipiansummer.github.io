@@ -16,7 +16,7 @@ That said, if any future ~~archaeologists~~ readers of this blog stumble upon th
 
 ## What's New
 
-It doesn't look like it, but I've updated this blog to version 7.1.0 of [https://github.com/cotes2020](https://github.com/cotes2020), which is pretty similar to what I was using before, only now I'm pretty sure any future updates won't be making huge changes to the styling. I take that to mean that, one day, I'm free to roll a custom theme, or at least a custom color palette. Stay tuned.
+It doesn't look like it, but I've updated this blog to version 7.1.0 of [Chirpy Theme](https://github.com/cotes2020), which is pretty similar to what I was using before, only now I'm pretty sure any future updates won't be making huge changes to the styling. I take that to mean that, one day, I'm free to roll a custom theme, or at least a custom color palette. Stay tuned.
 
 I've also switched my comments manager over to Utterances instead of Giscus for no particular reason other than I could and I wanted to see what it looks like. The consensus? About the same. I was under the impression that Utterances wouldn't require a GitHub account to comment, but it looks like it does (it's probably for the best, anyway). Follow me for more tips on how to implement blazing fast mediocrity and other non-starters.
 
