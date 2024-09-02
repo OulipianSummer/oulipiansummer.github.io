@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: Andrew Benbow # the main title
 
-tagline: Web Developer Located in Asheville, NC specializing in Drupal, WordPress, React, and Django # it will display as the sub-title
+tagline: Senior Drupal Developer located in Asheville, NC. This is my personal blog! I write about fair technology, writing, woodworking, and other projects I'm working on.  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   I write about web development and life. Sometimes it will be funny.
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Andrew Benbow
-  email: amb@disroot.org # change to your email address
+  email: andrew.benbow@posteo.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
@@ -61,7 +61,7 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id: oulipiansummer # fill in your GoatCounter ID
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
@@ -111,17 +111,17 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 comments:
-  active: giscus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: utterences # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   # Global switch for the post comment system. Keeping it empty means disabled.
-  provider: giscus # [disqus | utterances | giscus]
+  provider: utterences # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: # <gh-username>/<repo>
-    issue_term: # < url | pathname | title | ...>
+    repo: OulipianSummer/oulipiansummer.github.io # <gh-username>/<repo>
+    issue_term: pathname # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
     repo: OulipianSummer/oulipiansummer.github.io # <gh-username>/<repo>
