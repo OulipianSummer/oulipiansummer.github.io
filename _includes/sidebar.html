@@ -81,7 +81,7 @@
             {% assign link_types = 'noopener noreferrer' %}
           {% endunless %}
 
-          {% if entry.type == 'mastodon' or entry.type == 'github' %}
+          {% if entry.type == 'mastodon' %}
             {% assign link_types = link_types | append: ' me' | strip %}
           {% endif %}
 

@@ -55,9 +55,12 @@ google_analytics:
 goatcounter:
   id: oulipiansummer # fill in your Goatcounter ID
 
+<<<<<<< HEAD
 webmentions:
   id: andrew-benbow.com # fill in your webmentions ID
 
+=======
+>>>>>>> parent of 4f913e2 (Prepare for webmentions)
 # Prefer color scheme setting.
 #
 # Note: Keep empty will follow the system prefer color by default,
