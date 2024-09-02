@@ -79,3 +79,9 @@ Judith fields a lot of custom requests for artwork and graphic design to run her
 
 ![This same region turns red when she needs to slow down her new projects.](https://raw.githubusercontent.com/OulipianSummer/oulipiansummer.github.io/main/assets/img/portoflio/jbicking-artist-out.webp)
 *This same region turns red when she needs to slow down her new projects.*
+
+## Update, 09/2024
+
+This project recently had some changes I'd like to highlight. Since building this project, Dreamhost disabled the use of Passenger in its shared hosts, rending this website unusable using the traditional Python stack. After some research and consultation with the client, we decided to migrate this website over to a static site.
+
+This process involved updating the Wagtail/Django stack up to a more recent release and installing the amazing [Wagtail Bakery](https://github.com/wagtail-nest/wagtail-bakery) package. Once the site was updated, we could simply re-deploy the entire website as a static set of HTML pages without affecting the core site behavior. One thing we missed out on was the ability to use forms, namely the contact form. We resolved this issue by re-purposing this page as an about page, which gave us an opportunity for the artist to talk about her skillets and work experience.
