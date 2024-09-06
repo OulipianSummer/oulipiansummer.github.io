@@ -14,16 +14,16 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Andrew Benbow # the main title
+title: A.B. Murrow # the main title
 
-tagline: Senior Drupal Developer located in Asheville, NC. This is my personal blog! I write about fair technology, writing, woodworking, and other projects I'm working on.  # it will display as the sub-title
+tagline: Asheville based writer, web developer, blogger, and Linux user. Writing about literature, poetry, publishing, fair computing, and Oulipo.  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  I write about web development and life. Sometimes it will be funny.
+  Asheville based writer, web developer, blogger, and Linux user. Writing about literature, poetry, publishing, fair computing, Oulipo, and any number of other creative things.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://andrew-benbow.com"
+url: "https://abmurrow.com"
 
 github:
   username: OulipianSummer # change to your github username
@@ -34,7 +34,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Andrew Benbow
+  name: A.B. Murrow
   email: andrew.benbow@posteo.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
