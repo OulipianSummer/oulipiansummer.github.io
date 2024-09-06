@@ -1,6 +1,6 @@
 # My Personal Website
 
-This is the code repo for my personal website found at [andrew-benbow.com](andrew-benbow.com). This website is a fork of [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) by Cotes Chung and is hosted on GitHub pages.
+This is the code repo for my personal website found at [abmurrow.com](abmurrow.com). This website is a fork of [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) by Cotes Chung and is hosted on GitHub pages.
 
 ## Local Development
 
