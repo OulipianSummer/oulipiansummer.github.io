@@ -14,16 +14,16 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: A.B. Murrow # the main title
+title: Andrew Benbow # the main title
 
-tagline: Asheville based writer, web developer, blogger, and Linux user. Writing about literature, poetry, publishing, fair computing, and Oulipo.  # it will display as the sub-title
+tagline: Web developer specializing in Drupal and WordPress located in Asheville, NC.  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Asheville based writer, web developer, blogger, and Linux user. Writing about literature, poetry, publishing, fair computing, Oulipo, and any number of other creative things.
+  Web developer specializing in Drupal and WordPress located in Asheville, NC.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://abmurrow.com"
+url: "https://andrew-benbow.com"
 
 github:
   username: OulipianSummer # change to your github username
@@ -34,7 +34,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: A.B. Murrow
+  name: Andrew Benbow
   email: andrew.benbow@posteo.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -61,7 +61,7 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
-    id: oulipiansummer # fill in your GoatCounter ID
+    id: # fill in your GoatCounter ID
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
@@ -74,7 +74,7 @@ analytics:
     id: # fill in your Fathom Site ID
 
 goatcounter:
-  id: oulipiansummer # fill in your Goatcounter ID
+  id: # fill in your Goatcounter ID
 # Page views settings
 pageviews:
   provider: # now only supports 'goatcounter'
@@ -111,10 +111,10 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 comments:
-  active: giscus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   # Global switch for the post comment system. Keeping it empty means disabled.
-  provider: giscus # [disqus | utterances | giscus]
+  provider: # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
